@@ -1,23 +1,25 @@
-# Olá, eu sou a Raffaela! 👋
+# Olá, eu sou a Raffaela 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas na PUC. Apaixonada por desenvolvimento web, arquitetura de software, automação e suporte a sistemas.
+🎓 **Análise e Desenvolvimento de Sistemas (PUCRS)** | Foco em **IA, Automação & Análise Preditiva**
 
----
-
-### 💻 Tecnologias & Ferramentas
-- **Linguagens & Front-End:** HTML5, CSS3, JavaScript (ES6+), React, TypeScript
-- **Conceitos de Software:** Lógica de Programação, POO, Estruturas de Dados, Consumo de APIs REST
-- **Infraestrutura & Suporte:** Redes (TCP/IP, DNS), Linux, Windows, Troubleshooting, Git/GitHub
-- **Metodologias:** Scrum, Kanban, Levantamento de Requisitos e Documentação
+📍 Macaé - RJ | ✉️ ffaelamac@gmail.com
 
 ---
 
-### 📌 Projetos em Destaque
-- 🌐 **[Nome do Projeto Web]**: Aplicação responsiva desenvolvida em React/JS com foco em usabilidade.
-- ⚙️ **[Nome do Projeto de Lógica/Automação]**: Scripts para manipulação de dados e automação de processos.
+### 🚀 Sobre Mim
+Graduanda em ADS com foco em aplicação de Inteligência Artificial para solução de problemas de negócio, automação de processos e análise exploratória de dados. Tenho experiência prática no desenvolvimento e avaliação de modelos de Machine Learning utilizando Python.
 
 ---
 
-📬 **Contato:**
-- **LinkedIn:** [linkedin.com/in/raffatalk](https://www.linkedin.com/in/raffatalk)
-- **E-mail:** ffaelamac@gmail.com
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens & Análise:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- **Machine Learning & IA:** Regressão Linear, Random Forest, Redes Neurais, Prompt Engineering (Gemini, Copilot, DeepSeek)
+- **Outras Ferramentas:** Git, GitHub, Linux/macOS
+- **Em Aprendizado:** SQL, Power BI, Power Automate (RPA)
+
+---
+
+### 📁 Projeto em Destaque
+- **[Análise Preditiva - Tempo de Tela e Saúde Mental](#)**
+  - Análise exploratória de 2.000 registros e 25 variáveis.
+  - Modelagem comparativa entre Regressão, Random Forest e Redes Neurais (avaliação via MAE, RMSE, R²).
